@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FIleNameCoder</string>
+    <string name="read_sucsess">read sucsess</string>
+    <string name="error_occured">error occured</string>
+</resources>
